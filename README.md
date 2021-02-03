@@ -1,5 +1,5 @@
 <p align="center">
-  # CRA Tailwind Template 🔥
+  <h1>CRA Tailwind Template 🔥</h1>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JXlFx1ne--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/f30hrij5h3j7gt2klbcu.jpg" align="center">
   <small>Made with 💙 by <a href="https://github.com/shaan71845">Shaan Alam</a></small>
 </p>
